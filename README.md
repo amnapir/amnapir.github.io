@@ -18,7 +18,7 @@ Muhammad, A. P., Akram, M. U., & Khan, M. A. (2015, December). Survey based anal
 
 # Contact me
 
-Ph.D. candidate & Marie Curie Early-Stage Researcher (ESR)
+Ph.D. candidate & Marie Curie Early-Stage Researcher(ESR)
 Department of Computer Science and Engineering
 Chalmers | University of GothenburgPhone: +46729746230Email: amnap@chalmers.se
 
