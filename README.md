@@ -32,3 +32,9 @@ Phone: +46729746230
 
 Email: amnap@chalmers.se
 
+## Acknowledgment
+
+I would like to extend my gratitude to my supervisors Eric Knauss and Jonas Bärgmann for their patient guidance, encouragement and throughout advice. I am extremely lucky to have these people as my torch bearers. I am also very much thankful to my mentor Alessia Knauss for overall counselling and recommendations.
+
+My research is a part of SHAPE-IT project. This project has received funding from the European Union’s Horizon 2020
+research and innovation program under the Marie Skłodowska-Curie grant agreement 860410.
