@@ -22,5 +22,9 @@ Ph.D. candidate & Marie Curie Early-Stage Researcher(ESR)
 
 Department of Computer Science and Engineering
 
-Chalmers | University of GothenburgPhone: +46729746230Email: amnap@chalmers.se
+Chalmers | University of Gothenburg
+
+Phone: +46729746230
+
+Email: amnap@chalmers.se
 
