@@ -3,9 +3,13 @@
 
 
 # About
-Hello! I’m Amna Pir Muhammad. I specialised in Software Engineering. My current interests are in autonomous vehicle development(AVs), human factors(HF), large scale agile development and requirements engineering(RE). I’m passionate about shaping the relationship between humans and artificial intelligence (AI) based autonomous systems.
 
-I’m currently engaged as a researcher on a Marie Skłodowska-Curie Action Innovative Training Network project which aims to enable the rapid and reliable development of safe and user-centred automated vehicles (AVs) for urban environments. My particular area of focus is to investigate howe to bring HF knowledge to AV  developers .
+Welcome! I’m Amna Pir Muhammad. 
+I am a PHD Student at Chalmers| University of Gothenburg working with Professor [Eric knauss](https://www.researchgate.net/profile/Eric-Knauss), [Jonas Bargman](https://www.researchgate.net/profile/Jonas-Baergman). I am engaged as a researcher on a Marie Skłodowska-Curie Action Innovative Training Network project which aims to enable the rapid and reliable development of safe and user-centred automated vehicles (AVs) for urban environments. My particular area of focus is to investigate howe to bring HF knowledge to AV  developers. 
+
+Previously,I specialised in Software Engineering and was working as a lecturer at Comsats University of Islamabd.
+
+My current interests are in autonomous vehicle development(AVs), human factors(HF), large scale agile development and requirements engineering(RE). I’m passionate about shaping the relationship between humans and artificial intelligence (AI) based autonomous systems.
 
 # Research Publications
 * Heyn, H. M., Knauss, E., Muhammad, A. P., Eriksson, O., Linder, J., Subbiah, P., … & Tungal, S. (2021, May). Requirement engineering challenges for ai-intense systems development. In 2021 IEEE/ACM 1st Workshop on AI Engineering-Software Engineering for AI (WAIN) (pp. 89-96). IEEE.
