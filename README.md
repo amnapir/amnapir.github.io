@@ -4,12 +4,9 @@
 
 # About
 
-Welcome! I’m Amna Pir Muhammad. 
-I am a PHD Student at Chalmers| University of Gothenburg working with Professor [Eric knauss](https://www.researchgate.net/profile/Eric-Knauss), [Jonas Bargman](https://www.researchgate.net/profile/Jonas-Baergman). I am engaged as a researcher on a Marie Skłodowska-Curie Action Innovative Training Network project which aims to enable the rapid and reliable development of safe and user-centred automated vehicles (AVs) for urban environments. My particular area of focus is to investigate howe to bring HF knowledge to AV  developers. 
+Welcome! I’m Amna Pir Muhammad. I am a Ph.D. Student at the Chalmers|University of Gothenburg working with Professor Eric Knauss and Jonas Bargman. I am a researcher on a Marie Skłodowska-Curie Action Innovative Training Network project aiming to enable the rapid and reliable development of safe and user-centered automated vehicles (AVs) for urban environments. My particular focus is investigating how to bring HF knowledge to AV developers. Previously, I specialized in Software Engineering and was working as a lecturer at the Comsats University of Islamabad.
 
-Previously,I specialised in Software Engineering and was working as a lecturer at Comsats University of Islamabd.
-
-My current interests are in autonomous vehicle development(AVs), human factors(HF), large scale agile development and requirements engineering(RE). I’m passionate about shaping the relationship between humans and artificial intelligence (AI) based autonomous systems.
+My current interests are in autonomous vehicle development(AVs), human factors(HF), large-scale agile development, and requirements engineering(RE). I’m passionate about shaping the relationship between humans and artificial intelligence (AI) based autonomous systems.
 
 # Research Publications
 * Heyn, H. M., Knauss, E., Muhammad, A. P., Eriksson, O., Linder, J., Subbiah, P., … & Tungal, S. (2021, May). Requirement engineering challenges for ai-intense systems development. In 2021 IEEE/ACM 1st Workshop on AI Engineering-Software Engineering for AI (WAIN) (pp. 89-96). IEEE.
@@ -38,7 +35,7 @@ Email: amnap@chalmers.se
 
 ## Acknowledgment
 
-I would like to extend my gratitude to my supervisors Eric Knauss and Jonas Bärgmann for their patient guidance, encouragement and throughout advice. I am extremely lucky to have these people as my torch bearers. I am also very much thankful to my mentor Alessia Knauss for overall counselling and recommendations.
+I would like to extend my gratitude to my supervisors, Eric Knauss and Jonas Bärgmann, for their patient guidance, encouragement, and throughout advice. I am fortunate to have these people as my torchbearers. I am also very much thankful to my mentor Alessia Knauss for comprehensive counseling and recommendations.
 
-My research is a part of [SHAPE-IT](https://www.shape-it.eu) project. This project has received funding from the European Union’s Horizon 2020
+My research is a part of the [SHAPE-IT](https://www.shape-it.eu) project. This project has received funding from the European Union’s Horizon 2020
 research and innovation program under the Marie Skłodowska-Curie grant agreement 860410.
