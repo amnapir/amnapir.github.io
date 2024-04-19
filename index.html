@@ -30,10 +30,23 @@
             border: 1px solid #ccc;
             margin-top: 20px;
         }
+
+        /* Style for active tab */
+        .active {
+            background-color: #ccc;
+        }
     </style>
 </head>
 
 <body>
+    <!-- Anchor links -->
+    <div class="tabs">
+        <a href="#About" class="tablink">About</a>
+        <a href="#Publications" class="tablink">Publications</a>
+        <a href="#Contact" class="tablink">Contact</a>
+        <a href="#Acknowledgment" class="tablink">Acknowledgment</a>
+    </div>
+
     <div class="tabcontent" id="About">
         <h1>About</h1>
         <p>Welcome! I’m Amna Pir Muhammad. I am a Ph.D. Student at the Chalmers University of Gothenburg working with Professor Eric Knauss and Jonas Bargman. I am a researcher on a Marie Skłodowska-Curie Action Innovative Training Network project aiming to enable the rapid and reliable development of safe and user-centered automated vehicles (AVs) for urban environments. My particular focus is investigating how to bring HF knowledge to AV developers. Previously, I specialized in Software Engineering and was working as a lecturer at the Comsats University of Islamabad.</p>
@@ -68,6 +81,30 @@
         <p>My research is a part of the SHAPE-IT project. This project has received funding from the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement 860410.</p>
     </div>
 
+    <script>
+        // JavaScript to handle tab switching
+        const tabs = document.querySelectorAll('.tablink');
+        const tabContents = document.querySelectorAll('.tabcontent');
+
+        tabs.forEach(tab => {
+            tab.addEventListener('click', function(e) {
+                e.preventDefault();
+
+                // Remove active class from all tabs
+                tabs.forEach(tab => tab.classList.remove('active'));
+
+                // Add active class to clicked tab
+                this.classList.add('active');
+
+                // Hide all tab contents
+                tabContents.forEach(content => content.style.display = 'none');
+
+                // Show the clicked tab content
+                const targetId = this.getAttribute('href').substring(1);
+                document.getElementById(targetId).style.display = 'block';
+            });
+        });
+    </script>
 </body>
 
 </html>
