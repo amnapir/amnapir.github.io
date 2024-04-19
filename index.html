@@ -54,18 +54,22 @@
             border: 1px solid #ccc;
             border-top: none;
         }
+
+        .tabcontent.active {
+            display: block;
+        }
     </style>
 </head>
 
 <body>
     <div class="tab">
-        <button class="tablinks" onclick="openSection(event, 'About')" id="defaultOpen">About</button>
+        <button class="tablinks" onclick="openSection(event, 'About')">About</button>
         <button class="tablinks" onclick="openSection(event, 'Publications')">Publications</button>
         <button class="tablinks" onclick="openSection(event, 'Contact')">Contact</button>
         <button class="tablinks" onclick="openSection(event, 'Acknowledgment')">Acknowledgment</button>
     </div>
 
-    <div id="About" class="tabcontent">
+    <div id="About" class="tabcontent active">
         <h1>About</h1>
         <p>Welcome! I’m Amna Pir Muhammad. I am a Ph.D. Student at the Chalmers University of Gothenburg working with Professor Eric Knauss and Jonas Bargman. I am a researcher on a Marie Skłodowska-Curie Action Innovative Training Network project aiming to enable the rapid and reliable development of safe and user-centered automated vehicles (AVs) for urban environments. My particular focus is investigating how to bring HF knowledge to AV developers. Previously, I specialized in Software Engineering and was working as a lecturer at the Comsats University of Islamabad.</p>
         <p>My current interests are in autonomous vehicle development(AVs), human factors(HF), large-scale agile development, and requirements engineering(RE). I’m passionate about shaping the relationship between humans and artificial intelligence (AI) based autonomous system.</p>
@@ -104,18 +108,18 @@
             var i, tabcontent, tablinks;
             tabcontent = document.getElementsByClassName("tabcontent");
             for (i = 0; i < tabcontent.length; i++) {
-                tabcontent[i].style.display = "none";
+                tabcontent[i].classList.remove("active");
             }
             tablinks = document.getElementsByClassName("tablinks");
             for (i = 0; i < tablinks.length; i++) {
-                tablinks[i].className = tablinks[i].className.replace(" active", "");
+                tablinks[i].classList.remove("active");
             }
-            document.getElementById(sectionName).style.display = "block";
-            evt.currentTarget.className += " active";
+            document.getElementById(sectionName).classList.add("active");
+            evt.currentTarget.classList.add("active");
         }
 
         // Get the element with id="defaultOpen" and click on it
-        document.getElementById("defaultOpen").click();
+        document.querySelector(".tablinks").click();
     </script>
 </body>
 
