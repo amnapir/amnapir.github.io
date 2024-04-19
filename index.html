@@ -25,16 +25,53 @@
             text-decoration: underline;
         }
 
+        .tab {
+            overflow: hidden;
+            background-color: #f1f1f1;
+            display: flex;
+        }
+
+        .tab button {
+            background-color: inherit;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: 0.3s;
+            font-size: 17px;
+            flex: 1;
+        }
+
+        .tab button:hover {
+            background-color: #ddd;
+        }
+
+        .tab button.active {
+            background-color: #ccc;
+        }
+
         .tabcontent {
+            display: none;
             padding: 20px;
             border: 1px solid #ccc;
-            margin-top: 20px;
+            border-top: none;
+        }
+
+        .tabcontent.active {
+            display: block;
         }
     </style>
 </head>
-
+    
 <body>
-    <div class="tabcontent" id="About">
+    <div class="tab">
+        <button class="tablinks" onclick="openSection(event, 'About')">About</button>
+        <button class="tablinks" onclick="openSection(event, 'Publications')">Publications</button>
+        <button class="tablinks" onclick="openSection(event, 'Contact')">Contact</button>
+        <button class="tablinks" onclick="openSection(event, 'Acknowledgment')">Acknowledgment</button>
+    </div>
+
+<div id="About" class="tabcontent active">
         <h1>About</h1>
         <p>Welcome! I’m Amna Pir Muhammad. I am a Ph.D. Student at the Chalmers University of Gothenburg working with Professor Eric Knauss and Jonas Bargman. I am a researcher on a Marie Skłodowska-Curie Action Innovative Training Network project aiming to enable the rapid and reliable development of safe and user-centered automated vehicles (AVs) for urban environments. My particular focus is investigating how to bring HF knowledge to AV developers. Previously, I specialized in Software Engineering and was working as a lecturer at the Comsats University of Islamabad.</p>
         <p>My current interests are in autonomous vehicle development(AVs), human factors(HF), large-scale agile development, and requirements engineering(RE). I’m passionate about shaping the relationship between humans and artificial intelligence (AI) based autonomous system.</p>
