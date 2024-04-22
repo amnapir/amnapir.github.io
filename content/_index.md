@@ -242,10 +242,10 @@ sections:
     #  appointment_url: 'https://calendly.com'
       address:
         street: 'Hörselgången 5'
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
+        city: Gothenburg
+       # region: CA
+        postcode: '417 56'
+        country: Sweden
         country_code: US
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
