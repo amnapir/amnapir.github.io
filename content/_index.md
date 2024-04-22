@@ -231,7 +231,7 @@ sections:
   #    columns: '2'
   - block: contact
    # id: contact
-    content:
+   # content:
      # title: Contact
      # subtitle:
      # text: |-
