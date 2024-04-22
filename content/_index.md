@@ -230,8 +230,8 @@ sections:
   #  design:
   #    columns: '2'
   - block: contact
-  #  id: contact
-   # content:
+    id: contact
+    content:
      # title: Contact
      # subtitle:
      # text: |-
