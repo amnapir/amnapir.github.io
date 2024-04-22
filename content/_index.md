@@ -240,7 +240,7 @@ sections:
       email: amnap@chalmer.se
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
-      address:
+      address:''
         street: 'Hörselgången 5'
          city: Gothenburg
         region: CA
