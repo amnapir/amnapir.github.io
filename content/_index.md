@@ -231,13 +231,13 @@ sections:
   #    columns: '2'
   - block: contact
    # id: contact
-   # content:
-     # title: Contact
-     # subtitle:
-     # text: |-
-      #  Feel free to drop me a line if you have any questions, inquiries, or just want to say hello! I'm always happy to chat 😊.
+    content:
+     title: Contact
+      subtitle:
+      text: |-
+      # Feel free to drop me a line if you have any questions, inquiries, or just want to say hello! I'm always happy to chat 😊.
       # Contact (add or remove contact options as necessary)
-     # email: amnap@chalmer.se
+      email: amnap@chalmer.se
      # phone: 888 888 88 88
     #  appointment_url: 'https://calendly.com'
       address:
