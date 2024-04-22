@@ -39,15 +39,17 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD topic Human Factors in AI based Automation Design 
+      Topic:
+      institution: Chalmers Uinversity of Technology
+      year: 2025
+    - course: MSE: Computer Sofwatre Engineering 
+      topic:
+      institution: Nust
+      year: 2015
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      topic:
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
