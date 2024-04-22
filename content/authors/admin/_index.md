@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Amna Pir Muhammad
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Amna Pir
+last_name: Muhammad
 
 # Status emoji
 status:
@@ -17,21 +17,24 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate & Marie Curie Early-Stage Researcher (ESR)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Chalmers University of Technology
+    url: https://research.chalmers.se/en/person/amnap
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mastering Human Factors and Requirements in Agile Automated Vehicle Development
 
 # Interests to show in About widget
 interests:
+
+  - Software Engineering 
+  - Requirements Engineering
+  - Human Factors
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
 
 # Education to show in About widget
 education:
