@@ -1,13 +1,11 @@
 ---
 # Display name
-title: 吳健雄
+title: Amna
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Amna Pir
+last_name: Muhammad
 
 # Status emoji
 status:
@@ -17,34 +15,39 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate & Marie Curie Early-Stage Researcher (ESR)
+
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Chalmers University of Technology
+    url: https://research.chalmers.se/en/person/amnap
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mastering Human Factors and Requirements in Agile Automated Vehicle Development
 
 # Interests to show in About widget
 interests:
+
+  - Software Engineering 
+  - Requirements Engineering
+  - Human Factors
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD topic Human Factors in AI based Automation Design 
+      Topic:
+      institution: Chalmers Uinversity of Technology
+      year: 2025
+    - course: MSE: Computer Sofwatre Engineering 
+      topic:
+      institution: Nust
+      year: 2015
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      topic:
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,19 +99,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AmnaPir
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=lWv2nIMAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/amnapir/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Amna Pir Muhammad is a dedicated PhD candidate at Chalmers University of Technology, affiliated with the University of Gothenburg in Sweden. As an Early-Stage Researcher (ESR) in the SHAPE-IT Marie Curie ITN program, she focuses her research on integrating human factors knowledge into Automated Vehicle (AV) design and development. Amna employs empirical methods to bridge the perspectives of human factor experts with systems and software engineers within the automotive industry.
+
+Passionate about fostering understanding and collaboration, Amna engages with industry professionals and researchers alike to advance the field of human-centered AV design. Through her work, she aims to contribute meaningful insights that drive innovation and enhance user experience in automated transportation. 
 {style="text-align: justify;"}
