@@ -96,7 +96,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: amnap@chalmers.se
+    link: mailto:amnap@chalmers.se
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AmnaPir
