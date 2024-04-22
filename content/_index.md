@@ -241,7 +241,7 @@ sections:
      # phone: 888 888 88 88
     #  appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
+        street: 'Hörselgången 5'
         city: Stanford
         region: CA
         postcode: '94305'
