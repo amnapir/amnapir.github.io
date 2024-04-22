@@ -256,10 +256,10 @@ sections:
         latitude: '57.707574' 
         longitude: '11.938659'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/AmnaPir'
+      #  - icon: twitter
+        #  icon_pack: fab
+        #  name: DM Me
+         # link: 'https://twitter.com/AmnaPir'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
