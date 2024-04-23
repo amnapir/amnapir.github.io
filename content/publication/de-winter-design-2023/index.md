@@ -33,9 +33,6 @@ abstract: 'This work provides a summary of work within the project SHAPE-IT (Sup
   The report is structured as a core with accompanying already published journal articles
   as appendices.'
 
-tags:
-- Source Themes
-featured: false
 links:
 - name: URL
   url: https://research.chalmers.se/publication/7a56c080-d040-44d1-aa11-361896d2f5e3
