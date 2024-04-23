@@ -32,7 +32,7 @@ abstract: 'This work provides a summary of work within the project SHAPE-IT (Sup
   a useful reference for researchers and HMI designers who are involved in road transport.
   The report is structured as a core with accompanying already published journal articles
   as appendices.'
-
+featured: true
 links:
 - name: URL
   url: https://research.chalmers.se/publication/7a56c080-d040-44d1-aa11-361896d2f5e3
