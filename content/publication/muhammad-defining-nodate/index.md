@@ -8,7 +8,7 @@ authors:
 - Yi-Chun Lin
 - Alessia Knauss
 date: -01-01
-publishDate: '2024-04-23T09:17:13.618795Z'
+publishDate: '2022-04-23T09:17:13.618795Z'
 publication_types:
 - article-journal
 abstract: Research shows that many of the challenges currently encountered with agile
