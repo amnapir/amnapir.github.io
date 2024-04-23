@@ -37,8 +37,3 @@ links:
 - name: URL
   url: https://research.chalmers.se/publication/7a56c080-d040-44d1-aa11-361896d2f5e3
 ---
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
