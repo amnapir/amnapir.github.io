@@ -4,7 +4,7 @@ title: Methods and Guidelines for Incorporating Human Factors Requirements in Au
 authors:
 - Amna Pir Muhammad
 date: -01-01
-publishDate: '2024-04-23T09:17:13.612059Z'
+publishDate: '2021-04-23T09:17:13.612059Z'
 publication_types:
 - article-journal
 abstract: Automated vehicles (AV) are transforming the future of the transportation
