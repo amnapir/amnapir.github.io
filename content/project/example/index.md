@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Architectural Framework for Hospital Management Information System based on Internet of Things
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
