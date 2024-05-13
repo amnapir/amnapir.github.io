@@ -43,10 +43,10 @@ education:
       institution: Chalmers University of Technology
       year: 2020 - 2025
     - course: MEng in Computer Softwrae Engineering 
-      institution: National University of Scinces and Technology
+      institution: NUST College of Electrical and Mechanical Engineering
       year: 2013- 2015
     - course: BSc in Software Engineering
-      institution: NUST College of Electrical and Mechanical Engineering
+      institution: National University of Scinces and Technology
       year: 2009 - 2013
 
 # Skills
