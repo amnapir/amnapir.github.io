@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 This project focuses on the integration of Internet of Things (IoT) technology within Pakistani hospitals. Recognizing the lack of standardized IoT frameworks in healthcare settings, our aim was to address this gap by proposing a tailored architectural framework.
