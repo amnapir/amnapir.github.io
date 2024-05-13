@@ -12,7 +12,7 @@ sections:
       image:
         filename: hero-academic.png
       cta:
-        label: '**Get Started**'
+        label: '**Hello**'
         url: https://hugoblox.com/templates/
       cta_alt:
         label: Ask a question
