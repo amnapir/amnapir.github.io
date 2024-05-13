@@ -1,9 +1,9 @@
 ---
 title: Architectural Framework for Hospital Management Information System based on Internet of Things
-# summary: An example of using the in-built project page.
+summary: An example of using the in-built project page.
 tags:
-  - 
-#date: '2016-04-27T00:00:00Z'
+  - Deep Learning
+date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
