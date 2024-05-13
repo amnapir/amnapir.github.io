@@ -13,7 +13,7 @@ sections:
         filename: hero-academic.png
       cta:
         label: '**Hello**'
-        url: https://hugoblox.com/templates/
+        url: https://amnapir.com/
       cta_alt:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
