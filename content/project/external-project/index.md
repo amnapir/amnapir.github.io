@@ -30,12 +30,10 @@ url_video: ''
 # slides: example
 ---
 
-This project focuses on the integration of Internet of Things (IoT) technology within Pakistani hospitals. Recognizing the lack of standardized IoT frameworks in healthcare settings, our aim was to address this gap by proposing a tailored architectural framework.
+In an era of technological advancement, automation reigns supreme. The ZigBee Smart Home Power Monitoring System (ZSHPMS) represents the forefront of this movement, focusing on the seamless maintenance of power communication via ZigBee technology.
 
-The importance of this endeavor stems from the need to enhance healthcare delivery and management efficiency through technological innovation. With IoT's potential to revolutionize patient care and streamline hospital operations, our project sought to harness this transformative power within the context of Pakistani healthcare.
+ZSHPMS serves as a comprehensive system designed to simulate and manage various facets of power communication, including monitoring, limitation, and addressing issues such as power theft. At its core, the system establishes a hierarchical structure, with Major Server Grid Stations acting as central hubs, connected to Sub servers (TownPC’s), which in turn are linked to home PCs and transformers.
 
-To achieve this, we conducted a comprehensive analysis of existing IoT technologies and their applicability to healthcare settings. Subsequently, we developed a conceptual smart hospital framework, designed to optimize patient care and data management.
+Each transformer holds crucial information regarding the homes it serves, including unit consumption and total power consumption. Meanwhile, the grid station oversees the aggregate power usage within the town. Through the home PC interface, users gain control over household appliances and access real-time data on power consumption, both at the appliance level and for the entire home.
 
-A key aspect of our work was the introduction of context-awareness middleware within IoT architecture, aimed at improving data handling and enhancing the personalized healthcare experience for patients.
-
-In summary, our project aimed to fill a crucial gap in Pakistani healthcare by proposing a tailored IoT framework designed to enhance patient care and management efficiency. Additionally, this system was developed in collaboration with CASE developers and underwent validation in the ICU of PIMS hospital.
+Implemented using C# language, this project leverages ZigBee chips to facilitate efficient power information communication. By establishing mesh networking, ZSHPMS ensures reliable long-distance communication, revolutionizing the way we monitor and manage power consumption in smart homes."
