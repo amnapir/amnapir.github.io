@@ -1,9 +1,9 @@
 ---
 title: Architectural Framework for Hospital Management Information System based on Internet of Things
-summary: An example of using the in-built project page.
+# summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Software Engineering
+#date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -30,5 +30,12 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+This project focuses on the integration of Internet of Things (IoT) technology within Pakistani hospitals. Recognizing the lack of standardized IoT frameworks in healthcare settings, our aim was to address this gap by proposing a tailored architectural framework.
 
+The importance of this endeavor stems from the need to enhance healthcare delivery and management efficiency through technological innovation. With IoT's potential to revolutionize patient care and streamline hospital operations, our project sought to harness this transformative power within the context of Pakistani healthcare.
+
+To achieve this, we conducted a comprehensive analysis of existing IoT technologies and their applicability to healthcare settings. Subsequently, we developed a conceptual smart hospital framework, designed to optimize patient care and data management.
+
+A key aspect of our work was the introduction of context-awareness middleware within IoT architecture, aimed at improving data handling and enhancing the personalized healthcare experience for patients.
+
+In summary, our project aimed to fill a crucial gap in Pakistani healthcare by proposing a tailored IoT framework designed to enhance patient care and management efficiency. Additionally, this system was developed in collaboration with CASE developers and underwent validation in the ICU of PIMS hospital.
