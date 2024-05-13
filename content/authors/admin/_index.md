@@ -46,7 +46,7 @@ education:
       institution: National University of Scinces and Technology
       year: 2013- 2015
     - course: BSc in Software Engineering
-      institution: Massachusetts Institute of Technology
+      institution: NUST College of Electrical and Mechanical Engineering
       year: 2009 - 2013
 
 # Skills
