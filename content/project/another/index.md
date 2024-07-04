@@ -1,6 +1,6 @@
 ---
-title: Hotel
-#summary: An example of using the in-built project page.
+title: Hotel Management System
+#summary:This web project, primarily developed using WordPress, is designed to streamline and enhance hotel management operations.
 #tags:
 #  - Deep Learning
 # date: '2016-04-27T00:00:00Z'
