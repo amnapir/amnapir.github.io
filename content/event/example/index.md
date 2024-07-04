@@ -1,19 +1,15 @@
 ---
-title: Example Talk
+title: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: RE Conference
+# event_url: https://example.org
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Reykjavik, Iceland
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+
+summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
+abstract: 'The integration of human factors (HF) knowledge is crucial when developing safety-critical systems, such as automated vehicles (AVs). Ensuring that HF knowledge is considered continuously throughout the AV development process is essential for several reasons, including efficacy, safety, and acceptance of these advanced systems. However, it is challenging to include HF as requirements in agile development. Recently, Requirements Strategies have been suggested to address requirements engineering challenges in agile development.
+By applying the concept of Requirements Strategies as a lens to the investigation of HF requirements in agile development of AVs, this paper arrives at three areas for investigation: a) ownership and responsibility for HF requirements, b) structure of HF requirements and information models, and c) definition of work and feature flows related to HF requirements. Based on 13 semi-structured interviews with professionals from the global automotive industry, we provide qualitative insights in these three areas. The diverse perspectives and experiences shared by the interviewees provide insightful views and helped to reason about the potential solution spaces in each area for integrating HF within the industry, highlighting the real-world practices and strategies used.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
