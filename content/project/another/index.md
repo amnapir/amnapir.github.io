@@ -30,12 +30,4 @@ url_video: ''
 # slides: example
 ---
 
-This project focuses on the integration of Internet of Things (IoT) technology within Pakistani hospitals. Recognizing the lack of standardized IoT frameworks in healthcare settings, our aim was to address this gap by proposing a tailored architectural framework.
-
-The importance of this endeavor stems from the need to enhance healthcare delivery and management efficiency through technological innovation. With IoT's potential to revolutionize patient care and streamline hospital operations, our project sought to harness this transformative power within the context of Pakistani healthcare.
-
-To achieve this, we conducted a comprehensive analysis of existing IoT technologies and their applicability to healthcare settings. Subsequently, we developed a conceptual smart hospital framework, designed to optimize patient care and data management.
-
-A key aspect of our work was the introduction of context-awareness middleware within IoT architecture, aimed at improving data handling and enhancing the personalized healthcare experience for patients.
-
-In summary, our project aimed to fill a crucial gap in Pakistani healthcare by proposing a tailored IoT framework designed to enhance patient care and management efficiency. Additionally, this system was developed in collaboration with CASE developers and underwent validation in the ICU of PIMS hospital.
+The Hotel Management System was a web-based project specifically designed to cater to the needs of Pakistani hotels across various cities, with a particular focus on enhancing the tourism industry. Developed primarily using WordPress, this system was created as part of a course project to streamline hotel operations, improve guest experiences, and boost overall efficiency. It includes features such as online booking, room management, customer service tools, and detailed analytics to help hoteliers better understand and serve their guests. The system was tailored to meet the unique requirements of the Pakistani tourism sector, ensuring that hotels can provide top-notch services to both local and international tourists.
