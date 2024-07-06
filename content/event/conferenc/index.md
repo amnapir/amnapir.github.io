@@ -1,10 +1,11 @@
 ---
-title: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
+title: Continuous Experimentation and Human Factors
+An Exploratory Study
 
-event: RE Conference
-event_url: https://example.org
+event: PROFES Conference
+# event_url: https://example.org
 
-location: Reykjavik, Iceland
+location: Dornbirn, Austria
 
 
 
