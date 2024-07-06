@@ -1,5 +1,9 @@
 ---
 title: Hotel Management System
+weight: 1
+---
+
+---
 #summary:This web project, primarily developed using WordPress, is designed to streamline and enhance hotel management operations.
 #tags:
 #  - Deep Learning
