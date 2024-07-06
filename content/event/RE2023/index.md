@@ -1,5 +1,5 @@
 ---
-title: Managing Human Factors in Automated Vehicle Development: Towards Challenges and Practices
+title: Managing Human Factors in Automated Vehicle Development Towards Challenges and Practices
 
 event: RE Conference
  event_url: https://example.org
