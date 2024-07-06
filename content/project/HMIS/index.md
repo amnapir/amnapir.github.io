@@ -1,5 +1,9 @@
 ---
 title: Other Projects
+weight: 4
+---
+
+---
 # summary: An example of using the in-built project page.
 # tags:
 #  - Deep Learning
