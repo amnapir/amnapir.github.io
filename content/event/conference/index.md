@@ -3,13 +3,13 @@ title: Continuous Experimentation and Human Factors
 An Exploratory Study
 
 event: PROFES Conference
-# event_url: https://example.org
+ event_url: https://example.org
 
 location: Dornbirn, Austria
 
 
-# summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
-abstract: 'In todays rapidly evolving technological landscape, the success of tools and systems relies heavily on their ability to meet the needs and expectations of users. User-centered design approaches, with a focus on human factors, have gained increasing attention as they prioritize the human element in the development process. With the increasing complexity of software-based systems, companies are adopting agile development methodologies and emphasizing continuous software experimentation. However, there is limited knowledge on how to e ectively execute continuous experimentation with respect to human factors within this context. This research paper presents an exploratory qualitative study for integrating human factors in continuous experimentation, aiming to uncover distinctive characteristics of human factors and continuous software experiments, practical challenges for integrating human factors in continuous software experiments, and best practices associated with the management of continuous human factors experimentation.'
+ summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
+abstract: 'In todays rapidly evolving technological landscape, the success of tools and systems relies heavily on their ability to meet the needs and expectations of users. User-centered design approaches, with a focus on human factors, have gained increasing attention as they prioritize the human element in the development process. With the increasing complexity of software-based systems, companies are adopting agile development methodologies and emphasizing continuous software experimentation. However, there is limited knowledge on how to effectively execute continuous experimentation with respect to human factors within this context. This research paper presents an exploratory qualitative study for integrating human factors in continuous experimentation, aiming to uncover distinctive characteristics of human factors and continuous software experiments, practical challenges for integrating human factors in continuous software experiments, and best practices associated with the management of continuous human factors experimentation.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
