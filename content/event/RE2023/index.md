@@ -8,11 +8,11 @@ location: Hannover, Germany
 
 
 # summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
-abstract: 'Due to the technical complexity and social impact, automated vehicle (AV) development challenges the current state of automotive engineering practice. Research shows that it is important to consider human factors (HF) knowledge when developing AVs to make them safe and accepted. This study explores the current practices and challenges of the automotive industries for incorporating HF requirements during agile AV development. We interviewed ten industry professionals from several Swedish automotive companies, including HF experts and AV engineers. Based on our qualitative analysis of the semi-structured interviews, a number of current approaches for communicating and incorporating HF knowledge into agile AV development and associated challenges are discussed. Our findings may help to focus future research on issues that are critical to effectively incorporate HF knowledge into agile AV development.'
+abstract: '.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-24'
+date: '2023-09-07'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
