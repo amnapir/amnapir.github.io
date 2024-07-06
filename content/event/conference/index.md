@@ -7,7 +7,7 @@ event_url: https://example.org
 location: Reykjavik, Iceland
 
 
-# summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
+ summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
 abstract: 'In today's rapidly evolving technological landscape, the success
 of tools and systems relies heavily on their ability to meet the needs
 and expectations of users. User-centered design approaches, with a focus
