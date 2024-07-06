@@ -2,7 +2,7 @@
 title: Bridging Worlds: Integrating Human Factors in Agile Automated Vehicle Development
 
 event: Thesis Defense
-# event_url: https://example.org
+ event_url: https://example.org
 
 location: Gothenburg, Sweden
 
