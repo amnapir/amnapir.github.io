@@ -6,6 +6,13 @@
 title: Amna # Website name
 baseURL: 'https://amnapir.com/' # Website URL
 
+
+params:
+  event:
+    sort_by: "date"
+    sort_order: "desc"
+
+
 ############################
 ## LANGUAGE
 ############################
