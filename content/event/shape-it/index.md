@@ -1,6 +1,5 @@
 ---
-title: Human Factors in AI based Agile Automation Design <img width="1198" alt="image" src="https://github.com/amnapir/amna/assets/85794704/ae829d68-6fd3-4ee1-828a-4a870efced37">
-
+title: Human Factors in AI based Agile Automation Design 
 
 event: SHAPE-IT Final Event
 event_url: https://example.org
