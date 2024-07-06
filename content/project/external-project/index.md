@@ -1,5 +1,9 @@
 ---
 title: Zigbee Smart Home Power Monitoring System
+weight: 2
+
+---
+---
 #summary: An example of using the in-built project page.
 #tags:
 #  - Deep Learning
