@@ -1,7 +1,7 @@
 ---
 title: Continuous Experimentation and Human Factors An Exploratory Study
 
-event: RE Conference
+event: PROFES Conference
 event_url: https://example.org
 
 location: Reykjavik, Iceland
