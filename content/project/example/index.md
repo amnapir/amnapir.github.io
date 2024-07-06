@@ -1,8 +1,7 @@
 ---
 title: Architectural Framework for Hospital Management Information System based on Internet of Things
 weight: 1
----
----
+
 #summary: An example of using the in-built project page.
 #tags:
 #  - Deep Learning
