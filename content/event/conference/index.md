@@ -4,7 +4,7 @@ title: Continuous Experimentation and Human Factors An Exploratory Study
 event: PROFES Conference
 event_url: https://example.org
 
-location: Reykjavik, Iceland
+location: Dornbirn, Austria
 
 
 summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
