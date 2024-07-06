@@ -4,7 +4,7 @@ title: Managing Human Factors in Automated Vehicle Development Towards Challenge
 event: RE Conference
 # event_url: https://example.org
 
-location: Reykjavik, Iceland
+location: Hannover, Germany
 
 
 # summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
