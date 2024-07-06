@@ -5,12 +5,7 @@ event: RE Conference
 event_url: https://example.org
 
 location: Reykjavik, Iceland
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+
 
 summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
 abstract: 'The integration of human factors (HF) knowledge is crucial when developing safety-critical systems, such as automated vehicles (AVs). Ensuring that HF knowledge is considered continuously throughout the AV development process is essential for several reasons, including efficacy, safety, and acceptance of these advanced systems. However, it is challenging to include HF as requirements in agile development. Recently, Requirements Strategies have been suggested to address requirements engineering challenges in agile development.
