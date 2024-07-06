@@ -1,6 +1,6 @@
 ---
 title: Hotel Management System
-weight: 1
+weight: 3
 ---
 
 ---
