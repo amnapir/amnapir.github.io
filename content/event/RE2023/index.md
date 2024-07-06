@@ -2,17 +2,18 @@
 title: Managing Human Factors in Automated Vehicle Development Towards Challenges and Practices
 
 event: RE Conference
- event_url: https://example.org
+event_url: https://example.org
 
-location: Hannover, Germany
+location: Reykjavik, Iceland
 
 
-# summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
-abstract: 'Due to the technical complexity and social impact automated vehicle (AV) development challenges the current state of automotive engineering practice. Research shows that it is important to consider human factors (HF) knowledge when developing AVs to make them safe and accepted. This study explores the current practices and challenges of the automotive industries for incorporating HF requirements during agile AV development. We interviewed ten industry professionals from several Swedish automotive companies, including HF experts and AV engineers. Based on our qualitative analysis of the semi-structured interviews, a number of current approaches for communicating and incorporating HF knowledge into agile AV development and associated challenges are discussed. Our findings may help to focus future research on issues that are critical to effectively incorporate HF knowledge into agile AV development.'
+summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
+abstract: 'The integration of human factors (HF) knowledge is crucial when developing safety-critical systems, such as automated vehicles (AVs). Ensuring that HF knowledge is considered continuously throughout the AV development process is essential for several reasons, including efficacy, safety, and acceptance of these advanced systems. However, it is challenging to include HF as requirements in agile development. Recently, Requirements Strategies have been suggested to address requirements engineering challenges in agile development.
+By applying the concept of Requirements Strategies as a lens to the investigation of HF requirements in agile development of AVs, this paper arrives at three areas for investigation: a) ownership and responsibility for HF requirements, b) structure of HF requirements and information models, and c) definition of work and feature flows related to HF requirements. Based on 13 semi-structured interviews with professionals from the global automotive industry, we provide qualitative insights in these three areas. The diverse perspectives and experiences shared by the interviewees provide insightful views and helped to reason about the potential solution spaces in each area for integrating HF within the industry, highlighting the real-world practices and strategies used.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-09-07'
+date: '2024-06-24'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
