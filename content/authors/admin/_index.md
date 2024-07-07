@@ -121,12 +121,6 @@ social:
 highlight_name: true
 ---
 
-# Hi, my name is Amna, and I am an interdisciplinary scientist with a background in software engineering. Currently, I am a PhD candidate at Chalmers University of Technology, affiliated with the University of Gothenburg in Sweden. As an Early-Stage Researcher (ESR) in the SHAPE-IT Marie Curie ITN program, I focus on integrating human factors knowledge into Automated Vehicle (AV) design and development. I employ empirical methods to bridge the perspectives of human factor experts with systems and software engineers within the automotive industry.
-
-# Passionate about fostering understanding and collaboration, I engage with industry professionals and researchers alike to advance the field of human-centered AV design. Through my work, I aim to contribute meaningful insights that drive innovation and enhance user experience in automated transportation.
-
-# I have outstanding experience with quantitative and qualitative research methods, advanced data analysis, project management, and leadership of small teams. I also possess plenty of soft skills originating from years of hands-on experience.
-
 Hi, my name is Amna, and I am an interdisciplinary scientist with a background in software engineering. Currently, I am a PhD candidate at Chalmers University of Technology, affiliated with the University of Gothenburg in Sweden. As an Early-Stage Researcher (ESR) in the SHAPE-IT Marie Curie ITN program, I focus on integrating human factors knowledge into Automated Vehicle (AV) design and development. I use empirical methods to align the perspectives of human factor experts and systems engineers within the automotive industry.
 
 Before my PhD, I was a lecturer at COMSATS University Islamabad, a prestigious university in Pakistan. I taught core software engineering subjects such as software design and architecture, software testing and quality assurance, and software requirements engineering. I supervised numerous undergraduate projects and three master's theses.
