@@ -34,6 +34,7 @@ interests:
   - Requirements Engineering
   - Human Factors
   - Artificial Intelligence
+  - Large Language Models (LLMs)
 
 
 # Education to show in About widget
