@@ -8,6 +8,3 @@ authors:
 # caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-
-
-#Use popular tools such as Plotly, Mermaid, and data frames.
