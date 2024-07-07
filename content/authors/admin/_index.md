@@ -129,5 +129,5 @@ Additionally, I have worked as a freelancer, developing projects in C++ and C#, 
 
 Passionate about fostering understanding and collaboration, I engage with industry professionals and researchers to advance human-centered AV design. Through my work, I aim to contribute meaningful insights that drive innovation and enhance user experience in automated transportation.
 
-I have extensive experience with quantitative and qualitative research methods, advanced data analysis, project management, and leadership of small teams. My practical experience has endowed me with a wealth of soft skills, including communication, project management, and leadership
+I have extensive experience with quantitative and qualitative research methods, advanced data analysis, project management, and leadership of small teams. My practical experience has endowed me with a wealth of soft skills, including communication, project management, and leadership.
 {style="text-align: justify;"}
