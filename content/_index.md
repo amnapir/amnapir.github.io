@@ -112,7 +112,9 @@ sections:
           date_start: '2012-06-04'
           date_end: '2013-08-31'
           description: |2-
-              * Was responsible for unit testing and UI testing
+              * Responsible for unit testing and UI testing, ensuring software quality.
+              * Developed test cases and executed testing procedures to identify and resolve defects.
+              * Collaborated with development teams to improve software reliability.
 
     design:
       columns: '2'
