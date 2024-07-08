@@ -75,17 +75,7 @@ sections:
               * Published research papers in top conferences and journals and presented my work in reputable venues.
               * Developed many technical skills such as Git, R, and Python.
               * Recently acquired the certificate for Scrum Master and learned the responsibilities of both Scrum Masters and Product Owners.
-        - title: Lecturer
-          company: COMSATS University Islamabad, Pakistan
-          company_url: ''
-          company_logo: org-x
-          location: Pakistan
-          date_start: '2015-08-26'
-          date_end: '2020-02-02'
-           description: |2-
-              * Taught technical courses including software quality assurance, software design & architecture, and basic programming (c++).
-              * Supervised many bachelor's and master’s theses.
-              * Were part of mnay commettiee such as exams, disciplinary accerdiation, becholrs thesis commettiee 
+      
   
   - block: accomplishments
     content:
