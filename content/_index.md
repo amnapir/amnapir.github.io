@@ -84,6 +84,8 @@ sections:
           date_end: '2021-12-02'
           description: |2-
               * Participated in agile teams, learning best practices and identifying challenges in the requirements process.
+                * Gained hands-on experience with tools such as System Weaver, Confluence, Jira, and DOORs.
+              * Developed a template called Requirements Strategy based on my learning, which companies can use to improve requirements integration in agile processes and overcome related challenges.
               * Published a paper on the requirements strategy and presented it at reputable venues.
 
 
