@@ -84,7 +84,8 @@ sections:
           date_start: '2015-08-26'
           date_end: '2020-02-02'
           description: |2-
-              *Taught electronic engineering and researched semiconductor physics.
+              * Taught electronic engineering and researched semiconductor physics.
+              * Taught technical courses including software quality assurance, software design & architecture, and basic programming (C++).
     design:
       columns: '2'
    
