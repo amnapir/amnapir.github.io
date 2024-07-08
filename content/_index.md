@@ -65,7 +65,7 @@ sections:
         - title: Phd
           company: Chalmers | University of Gothenburg
           company_url: ''
-          company_logo: chalmers
+          company_logo: chalmer
           location: Sweden
           date_start: '2020-02-03'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Intern
           company: Zenseact AB
           company_url: ''
-          company_logo: org-x
+          company_logo: zenseact
           location: Sweden
           date_start: '2021-09-01'
           date_end: '2021-12-02'
@@ -92,7 +92,7 @@ sections:
         - title: Lecturer
           company: COMSATS University Islamabad, Pakistan
           company_url: ''
-          company_logo: org-x
+          company_logo: comsats
           location: Pakistan
           date_start: '2015-08-26'
           date_end: '2020-02-02'
