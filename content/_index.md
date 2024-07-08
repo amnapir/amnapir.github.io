@@ -83,7 +83,8 @@ sections:
           location: Pakistan
           date_start: '2015-08-26'
           date_end: '2020-02-02'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              *Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
    
