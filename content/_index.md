@@ -85,6 +85,8 @@ sections:
           description: |3-
 
               * Taught technical courses including software quality assurance, software design & architecture, and basic programming (C++).
+              * Supervised many bachelor's and master’s theses.
+         
          
   - block: accomplishments
     content:
