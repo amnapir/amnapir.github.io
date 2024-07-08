@@ -76,7 +76,7 @@ sections:
               * Developed many technical skills such as Git, R, and Python.
               * Recently acquired the certificate for Scrum Master and learned the responsibilities of both Scrum Masters and Product Owners.
       
-    - title: Lecturer
+        - title: Lecturer
           company: COMSATS University Islamabad, Pakistan
           company_url: ''
           company_logo: org-gc
