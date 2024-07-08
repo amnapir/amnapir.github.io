@@ -84,6 +84,8 @@ sections:
           date_end: '2020-02-02'
           description: |3-
 
+              * Taught technical courses including software quality assurance, software design & architecture, and basic programming (C++).
+         
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
