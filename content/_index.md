@@ -75,7 +75,20 @@ sections:
               * Published research papers in top conferences and journals, and presented work at reputable venues.
               * Enhanced technical skills in Git, R, Python, and Bayesian analysis.
               
-        
+         - title: Intern
+          company: Zenseact AB
+          company_url: ''
+          company_logo: org-x
+          location: Sweden
+          date_start: '2021-09-01'
+          date_end: '2021-12-02'
+          description: |2-
+              * Participated in agile teams, learning best practices and identifying challenges in the requirements process.
+              * Gained hands-on experience with tools such as System Weaver, Confluence, Jira, and DOORs.
+              * Developed a template called "Requirements Strategy" based on my learning, which companies can use to improve requirements integration in agile processes and overcome related challenges.
+              * Published a paper on the requirements strategy and presented it at reputable venues.
+
+
         - title: Lecturer
           company: COMSATS University Islamabad, Pakistan
           company_url: ''
@@ -89,18 +102,6 @@ sections:
               * Served on various committees, including exams, thesis, event management, and disciplinary and national accreditation committees.
               * Developed curriculum and learning materials to enhance educational outcomes.
               * Mentored students, fostering their academic and professional growth.
-    
-    
-        - title: Intern
-          company: Zenseact AB
-          company_url: ''
-          company_logo: org-x
-          location: Sweden
-          date_start: '2021-09-01'
-          date_end: '2021-12-02'
-          description: |2-
-              *   * Were part of several trams, where. Learned how the agile team work and how Requirements flow,and identified  what are the best practices and what are the challanges comnpany face
-              * got my hands on the tools familiar with the tools such as , system weaver, confluance, jira and DOORs.
             
 
         - title: QA Engineer
