@@ -86,7 +86,8 @@ sections:
               * Taught technical courses including software quality assurance, software design & architecture, and basic programming (C++).
               * Supervised many bachelor's and master’s theses.
               * Were part of many committees such as exams, disciplinary accreditation, bachelors thesis committee, and others.
-
+  design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
