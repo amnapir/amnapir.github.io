@@ -76,13 +76,16 @@ sections:
               * Developed many technical skills such as Git, R, and Python.
               * Recently acquired the certificate for Scrum Master and learned the responsibilities of both Scrum Masters and Product Owners.
         - title: Lecturer
-          company: University X
+          company: COMSATS University Islamabad, Pakistan
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Pakistan
+          date_start: '2015-08-26'
+          date_end: '2020-02-02'
+          description: 
+              * Taught technical courses including software quality assurance, software design & architecture, and basic programming (c++).
+              * Supervised many bachelor's and master’s theses.
+              * Were part of mnay commettiee such as exams, disciplinary accerdiation, becholrs thesis commettiee 
     design:
       columns: '2'
   - block: accomplishments
