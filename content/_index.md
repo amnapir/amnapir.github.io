@@ -82,7 +82,7 @@ sections:
           location: Pakistan
           date_start: '2015-08-26'
           date_end: '2020-02-02'
-           description: |2-
+           description: |3-
               * Taught technical courses including software quality assurance, software design & architecture, and basic programming (C++).
               * Supervised many bachelor's and master’s theses.
               * Were part of many committees such as exams, disciplinary accreditation, bachelors thesis committee, and others.
