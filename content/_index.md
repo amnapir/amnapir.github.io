@@ -61,21 +61,19 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Phd
-          company: Chalmers | University of Gothenburg
-          company_url: ''
-          company_logo: org-gc
-          location: Sweden
-          date_start: '2020-02-03'
-          date_end: ''
-          description: |2-
-
-              * Developed requirements strategies to better integrate human factors knowledge in agile AV development 
-              * Published research papers in top conferences and journals and presented my work in reputable venues.
-              * Developed many technical skills such as Git, R, and Python.
-              * Recently acquired the certificate for Scrum Master and learned the responsibilities of both Scrum Masters and Product Owners.
-    
+     items:
+      - title: Phd
+        company: Chalmers | University of Gothenburg
+        company_url: ''
+        company_logo: org-gc
+        location: Sweden
+        date_start: '2020-02-03'
+        date_end: ''
+        description: |2-
+          * Developed requirements strategies to better integrate human factors knowledge in agile AV development 
+          * Published research papers in top conferences and journals and presented my work in reputable venues.
+          * Developed many technical skills such as Git, R, and Python.
+          * Recently acquired the certificate for Scrum Master and learned the responsibilities of both Scrum Masters and Product Owners.
       - title: Lecturer
         company: COMSATS University Islamabad, Pakistan
         company_url: ''
@@ -87,7 +85,6 @@ sections:
           * Taught technical courses including software quality assurance, software design & architecture, and basic programming (C++).
           * Supervised many bachelor's and master’s theses.
           * Were part of many committees such as exams, disciplinary accreditation, bachelor's thesis committee.
-        
   
   - block: accomplishments
     content:
