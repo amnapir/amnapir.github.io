@@ -50,8 +50,8 @@ sections:
   #    username: admin
   #  design:
   #    columns: '1'
-
-  - block: experience
+  
+    - block: experience
     content:
       title: Experience
       # Date format for experience
@@ -70,11 +70,11 @@ sections:
           location: Sweden
           date_start: '2020-02-03'
           date_end: ''
-           description: |2-
-              * Developed requirements strategies to better integrate human factors knowledge in agile AV development 
-              * Published research papers in top conferences and journals and presented my work in reputable venues.
-              * Developed many technical skills such as Git, R, and Python.
-              * Recently acquired the certificate for Scrum Master and learned the responsibilities of both Scrum Masters and Product Owners.
+          description: |2-
+              Responsibilities include:
+              * Analysing
+              * Modelling
+              * Deploying
         
         - title: Lecturer
           company: University X
