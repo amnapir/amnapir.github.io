@@ -84,7 +84,7 @@ sections:
           date_end: '2020-02-02'
            description: |2-
     
-              * Taught technical courses including software quality assurance, software design & architecture, and basic programming (c++).
+              * Taught technical courses including software quality assurance, software design architecture, and basic programming (c++).
               * Supervised many bachelor's and master’s theses.
               * Were part of mnay commettiee such as exams, disciplinary accerdiation, becholrs thesis commettiee 
   
