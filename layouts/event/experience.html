@@ -1,0 +1,21 @@
+{{ range .Params.experience }}
+<div class="experience-item">
+    <h3>{{ .title }}</h3>
+    <p>{{ .company }}</p>
+    <p>{{ .location }}</p>
+    <p>{{ .date_start }} – {{ .date_end }}</p>
+    {{ if .company_logo }}
+      {{ $logo := .company_logo }}
+      {{ if strings.HasSuffix $logo ".svg" }}
+        <img src="{{ "assets/icons/" | relURL }}{{ $logo }}" alt="{{ .company }}">
+      {{ else if strings.HasSuffix $logo ".jpg" }}
+        <img src="{{ "assets/icons/" | relURL }}{{ $logo }}" alt="{{ .company }}">
+      {{ else if strings.HasSuffix $logo ".png" }}
+        <img src="{{ "assets/icons/" | relURL }}{{ $logo }}" alt="{{ .company }}">
+      {{ else }}
+        <img src="{{ "assets/icons/default-logo.png" | relURL }}" alt="{{ .company }}">
+      {{ end }}
+    {{ end }}
+    <p>{{ .description | markdownify }}</p>
+</div>
+{{ end }}
