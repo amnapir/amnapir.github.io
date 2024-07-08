@@ -86,6 +86,8 @@ sections:
           description: |2-
               * Taught electronic engineering and researched semiconductor physics.
               * Taught technical courses including software quality assurance, software design & architecture, and basic programming (C++).
+              * Supervised many bachelor's and master’s theses.
+              * Were part of many committees such as exams, disciplinary accreditation, bachelors thesis committee, and others.
     design:
       columns: '2'
    
