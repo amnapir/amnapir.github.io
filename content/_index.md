@@ -83,7 +83,7 @@ sections:
           location: Sweden
           date_start: '2020-02-03'
           date_end: ''
-          description: |2-
+          description: |3-
 
               * Developed requirements strategies to better integrate human factors knowledge in agile AV development 
               * Published research papers in top conferences and journals and presented my work in reputable venues.
