@@ -75,7 +75,20 @@ sections:
               * Published research papers in top conferences and journals and presented my work in reputable venues.
               * Developed many technical skills such as Git, R, and Python.
               * Recently acquired the certificate for Scrum Master and learned the responsibilities of both Scrum Masters and Product Owners.
-      
+       items:
+        - title: Phd
+          company: Chalmers | University of Gothenburg
+          company_url: ''
+          company_logo: org-gc
+          location: Sweden
+          date_start: '2020-02-03'
+          date_end: ''
+          description: |2-
+
+              * Developed requirements strategies to better integrate human factors knowledge in agile AV development 
+              * Published research papers in top conferences and journals and presented my work in reputable venues.
+              * Developed many technical skills such as Git, R, and Python.
+              * Recently acquired the certificate for Scrum Master and learned the responsibilities of both Scrum Masters and Product Owners.
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
