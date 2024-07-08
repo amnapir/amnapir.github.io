@@ -84,9 +84,12 @@ sections:
           date_start: '2015-08-26'
           date_end: '2020-02-02'
           description: |2-
-              * Taught technical courses including software quality assurance, software design & architecture, and basic programming (C++).
-              * Supervised many bachelor's and master’s theses.
-              * Were part of many committees such as exams, disciplinary accreditation, bachelors thesis committee, and others.
+              * Taught a variety of courses including software quality assurance, software design & architecture, and basic programming (C++).
+              * Supervised numerous bachelor's and master’s theses, guiding students to successful project completion.
+              * Served on various committees, including exams, thesis, event management, and disciplinary and national accreditation committees.
+              * Developed curriculum and learning materials to enhance educational outcomes.
+              * Mentored students, fostering their academic and professional growth.
+    
     
         - title: Intern
           company: Zenseact AB
