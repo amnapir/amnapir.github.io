@@ -88,13 +88,13 @@ sections:
               * Supervised many bachelor's and master’s theses.
               * Were part of many committees such as exams, disciplinary accreditation, bachelors thesis committee, and others.
 
-        - title: Phd
-          company: Chalmers | University of Gothenburg
+        - title: QA Engineer
+          company: Sherrserve Sofware House
           company_url: ''
           company_logo: org-gc
-          location: Sweden
-          date_start: '2020-02-03'
-          date_end: ''
+          location: Pakistan
+          date_start: '2012-06-04'
+          date_end: '2013-08-31'
           description: |2-
               Responsibilities include:
               * Developed requirements strategies to better integrate human factors knowledge in agile AV development.
