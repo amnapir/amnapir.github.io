@@ -86,6 +86,18 @@ sections:
               * Taught technical courses including software quality assurance, software design & architecture, and basic programming (C++).
               * Supervised many bachelor's and master’s theses.
               * Were part of many committees such as exams, disciplinary accreditation, bachelors thesis committee, and others.
+    
+        - title: Intern
+          company: Zenseact AB
+          company_url: ''
+          company_logo: org-x
+          location: Sweden
+          date_start: '2021-09-01'
+          date_end: '2021-12-02'
+          description: |2-
+              *   * Were part of several trams, where. Learned how the agile team work and how Requirements flow,and identified  what are the best practices and what are the challanges comnpany face
+              * got my hands on the tools familiar with the tools such as , system weaver, confluance, jira and DOORs.
+            
 
         - title: QA Engineer
           company: Sherrserve Sofware House
