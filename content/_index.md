@@ -75,7 +75,6 @@ sections:
               * Published research papers in top conferences and journals and presented my work in reputable venues.
               * Developed many technical skills such as Git, R, and Python.
               * Recently acquired the certificate for Scrum Master and learned the responsibilities of both Scrum Masters and Product Owners.
-     items:
         - title: Phd
           company: Chalmers | University of Gothenburg
           company_url: ''
