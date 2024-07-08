@@ -65,7 +65,7 @@ sections:
         - title: Phd
           company: Chalmers | University of Gothenburg
           company_url: ''
-          company_logo: chalmer
+          company_logo: goteborg
           location: Sweden
           date_start: '2020-02-03'
           date_end: ''
