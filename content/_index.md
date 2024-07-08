@@ -70,7 +70,6 @@ sections:
           date_start: '2020-02-03'
           date_end: ''
           description: |2-
-              Responsibilities include:
               * Developed requirements strategies to better integrate human factors knowledge in agile AV development.
               * Published research papers in top conferences and journals and presented my work in reputable venues.
               * Developed many technical skills such as Git, R, and Python.
@@ -96,7 +95,6 @@ sections:
           date_start: '2012-06-04'
           date_end: '2013-08-31'
           description: |2-
-              Responsibilities include:
               * Developed requirements strategies to better integrate human factors knowledge in agile AV development.
               * Published research papers in top conferences and journals and presented my work in reputable venues.
               * Developed many technical skills such as Git, R, and Python.
