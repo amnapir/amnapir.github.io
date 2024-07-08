@@ -95,10 +95,8 @@ sections:
           date_start: '2012-06-04'
           date_end: '2013-08-31'
           description: |2-
-              * Developed requirements strategies to better integrate human factors knowledge in agile AV development.
-              * Published research papers in top conferences and journals and presented my work in reputable venues.
-              * Developed many technical skills such as Git, R, and Python.
-              * Recently acquired the certificate for Scrum Master and learned the responsibilities of both Scrum Masters and Product Owners.
+              * Was responsible for unit testing and UI testing
+
     design:
       columns: '2'
    
