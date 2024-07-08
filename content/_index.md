@@ -75,7 +75,7 @@ sections:
               * Published research papers in top conferences and journals, and presented work at reputable venues.
               * Enhanced technical skills in Git, R, Python, and Bayesian analysis.
               
-         - title: Intern
+        - title: Intern
           company: Zenseact AB
           company_url: ''
           company_logo: org-x
