@@ -32,7 +32,7 @@ url_video: ''
 # slides: example
 ---
 
-In addition to the major projects mentioned above, I have developed many other small projects both as course assignments and as a freelancer. Some examples include:
+In addition to the projects mentioned above, I have developed many other small projects both as course assignments and as a freelancer. Some examples include:
 
 - A project in .NET technologies, maintaining databases in MySQL using C#
 - Implementation of a shared address book using OpenLDAP in an Ubuntu Linux environment
