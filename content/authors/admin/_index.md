@@ -121,11 +121,11 @@ social:
 highlight_name: true
 ---
 
-Hi, my name is Amna, and I am an interdisciplinary scientist with a background in software engineering. Currently, I am a PhD candidate at Chalmers University of Technology, affiliated with the University of Gothenburg in Sweden. As an Early-Stage Researcher (ESR) in the SHAPE-IT Marie Curie ITN program, I focus on integrating human factors knowledge into Automated Vehicle (AV) design and development. I use empirical methods to align the perspectives of human factor experts and systems engineers within the automotive industry.
+Hi, my name is Amna, and I am an interdisciplinary scientist with a background in software engineering. Currently, I am a PhD candidate at Chalmers University of Technology, affiliated with the University of Gothenburg, Sweden. As an Early-Stage Researcher (ESR) in the SHAPE-IT Marie Curie ITN program, I focus on integrating human factors knowledge into agile Automated Vehicle (AV) design and development.
 
-Before my PhD, I was a lecturer at COMSATS University Islamabad, a prestigious university in Pakistan. I taught core software engineering subjects such as software design and architecture, software testing and quality assurance, and software requirements engineering. I supervised numerous undergraduate projects and three master's theses.
+Before my PhD, I was a lecturer at COMSATS University Islamabad, a prestigious university in Pakistan. I taught core software engineering subjects such as software design and architecture, software testing and quality assurance, and software requirements engineering. I also supervised numerous undergraduate projects and master's theses.
 
-Additionally, I have worked as a freelancer, developing projects in C++ and C#, with some experience in PHP. During this period, I organized several events, from small to large scale. My responsibilities ranged from technological setups to planning and funding logistics, significantly enhancing my skills in communication, project management, and leadership.
+Additionally, I have worked as a freelancer, developing projects in C++ and C#, with some experience in python. During my academic career, I organized several events, ranging from small to large scale. My responsibilities included technological setups, planning, and funding logistics, significantly enhancing my skills in communication, project management, and leadership.
 
 Passionate about fostering understanding and collaboration, I engage with industry professionals and researchers to advance human-centered AV design. Through my work, I aim to contribute meaningful insights that drive innovation and enhance user experience in automated transportation.
 
