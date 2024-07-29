@@ -1,10 +1,10 @@
 ---
-title: Bridging Worlds- Integrating Human Factors in Agile Automated Vehicle Development
+#title: Bridging Worlds- Integrating Human Factors in Agile Automated Vehicle Development
 
-event: Thesis Defense
+#event: Thesis Defense
 # event_url: https://example.org
 
-location: Gothenburg, Sweden
+#location: Gothenburg, Sweden
 
 
 # summary: Requirements Strategy for Managing Human Factors in Automated Vehicle Development
@@ -12,27 +12,27 @@ location: Gothenburg, Sweden
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-12-12'
+# date: '2024-12-12'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors:
-  - admin
+#authors:
+ # - admin
 
-tags: []
+#tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+#featured: false
 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
 #links:
-es = "example-slides"` references `content/slides/example-slides.md`.
+# es = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: ""
 
@@ -41,6 +41,6 @@ es = "example-slides"` references `content/slides/example-slides.md`.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - SHAPE-IT: (https://www.shape-it.eu)
----
+# projects:
+#  - SHAPE-IT: (https://www.shape-it.eu)
+# ---
