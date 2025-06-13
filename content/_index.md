@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: hero
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    active: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Amna Pir Muhammad
       image:
