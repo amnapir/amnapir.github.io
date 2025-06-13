@@ -13,7 +13,7 @@ sections:
         filename: hero-academic.png
       cta:
         label: '**Hello**'
-        url: [https://amnapir.com/](https://amnapir.github.io )
+        url: https://amnapir.github.io
       cta_alt:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
