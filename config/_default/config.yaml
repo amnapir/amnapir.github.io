@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Amna # Website name
-baseURL = "https://amnapir.github.io/"
+baseURL: "https://amnapir.github.io/"
 
 
 
